@@ -1,0 +1,3 @@
+/Users/semre57/Documents/GitHub/hello-world/cmake-build-debug/CMakeFiles/hello_world.dir
+/Users/semre57/Documents/GitHub/hello-world/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/semre57/Documents/GitHub/hello-world/cmake-build-debug/CMakeFiles/rebuild_cache.dir
