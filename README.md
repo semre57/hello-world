@@ -2,11 +2,13 @@
  a very basic array implementation on c for unix/macos systems
  
  *---------------------------------------------------------------------
+ 
  *The code can compile for UNIX/MacOS systems. For Windows systems visit dyn-array.c file and change <unistd.h> which is preprocessor command     with <windows.h>. Also you need to use Sleep() instead of sleep().*
  
  *The capacity of array equal to 16 by default.*
  
  *When the size reaches the capacity value, the capacity of the array is automatically equalized to 2 times the current capacity.*
+ 
  ---------------------------------------------------------------------*
 
 The add function adds an element to the array and increases the size by 1.
